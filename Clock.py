@@ -1,7 +1,6 @@
 from datetime import *
 from tkinter import *
-
-from numpy import False_
+import numpy
 
 def Time():
     dt = datetime.now()
