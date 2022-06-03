@@ -1,0 +1,11 @@
+Anything Uninstaller
+
+Privacy and Policy:
+    This software is only made for uninstalling Software, files, directories, etc.
+     So, you didn't get any issue with this software about Privacy and Policy.
+
+terms and conditions:
+       If you delete any important file then our software is not responsible
+       and if you found an error then it comes through your system this is not our software problem.
+       This software is only made for windows and Two Python modules thus are (os and Tkinter),
+       if it could not work then download it manually.
