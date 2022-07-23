@@ -1,3 +1,3 @@
 # Project
 
-Hello friends, my name is Yash and I am always make new projects and applications from python, and I am always share to you with source code by using https://www.github.com/Yash12007/Project/ .
+Hello friends, my name is Yash and I am always try to make new projects and applications from python to publish them on https://github.com/Yash12007/Project & also my website https://yash12007.github.io/Max.
