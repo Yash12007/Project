@@ -5,7 +5,7 @@ app = Flask(__name__)
 '''
 If you want to run this file 
 https://replit.com/@Yash12007/Web-application?v=1#main.py 
-click here. 
+Run this file on replit.com 
 '''
 
 @app.route("/login", methods=["POST", "GET"])
