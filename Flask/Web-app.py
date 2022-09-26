@@ -2,6 +2,12 @@ from flask import Flask, request, render_template
 
 app = Flask(__name__)
 
+'''
+If you want to run this file 
+https://replit.com/@Yash12007/Web-application?v=1#main.py 
+click here. 
+'''
+
 @app.route("/login", methods=["POST", "GET"])
 
 def login():
