@@ -6,7 +6,7 @@ def get():
   a = e1.get()
   b=requests.get(f'https://google.com/search?q={a}')
   soup = BeautifulSoup(b, "html")
-  for html in soup.find_all("tag1"):
+  for html in soup.find_all("html"):
     html = html.htmltext.text
     cdata_soup = BeautifulSoup(html, "html")
     title=cdata_soup.title.text
