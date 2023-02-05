@@ -13,6 +13,8 @@ cf = 3.3/(65535)
 trigger = Pin(3, Pin.OUT)
 echo = Pin(2, Pin.IN)
 led =  Pin(25, Pin.OUT)
+power = Pin(4, Pin.OUT)
+power(1)
 
 def ultra():
        timepassed=0
