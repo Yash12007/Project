@@ -1,6 +1,8 @@
 # Project
 
 Hello friends, my name is Yash and I am always try to make new projects and applications from python to publish them on https://github.com/Yash12007/Project https://replit.com/@Yash12007/ & also my website https://yash12007.github.io/Max.
+<br></br>
+<b>If you want to create your website with HTML, css & JS with flask server visit: <a href="https://www.fiverr.com/yash12007/create-a-flask-server-using-python-html-css-and-javascript" >https://www.fiverr.com/yash12007/create-a-flask-server-using-python-html-css-and-javascript</a></b>
 
 <h1>Download Anything Uninstaller</h1>
 <img src="https://raw.githubusercontent.com/Yash12007/Max/main/Anything_Uninstaller.ico">
