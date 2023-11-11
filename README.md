@@ -1,6 +1,6 @@
 # Project
 
-Hello everyone, my name is Yash and I tries to make new projects and applications from python & upload on this repository https://github.com/Yash12007/Project https://replit.com/@Yash12007/ & also my website https://yash12007.github.io/Max.
+Hello everyone, my name is Yash and I tries to make new projects and applications from python & upload on this repository https://github.com/Yash12007/Project https://replit.com/@Yash12007/ & also my website https://yash12007.github.io/.
 <br></br>
 <b>If you want to create your website with HTML, css & JS with flask server visit: <a href="https://www.fiverr.com/yash12007/create-a-flask-server-using-python-html-css-and-javascript" >https://www.fiverr.com/yash12007/create-a-flask-server-using-python-html-css-and-javascript</a></b>
 
