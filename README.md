@@ -1,5 +1,5 @@
 # Project
-Hello everyone, my name is Yash and I try to make new projects and applications from Python & upload them on this repository.
+Hello everyone, I'm Yash and I uploaded new projects and applications from Python & upload them on this repository.
 
 ## Special Service
 To build a website with HTML, CSS, and JS with a flask server visit: [Fiverr](https://www.fiverr.com/yash12007/create-a-flask-server-using-python-html-css-and-javascript)
