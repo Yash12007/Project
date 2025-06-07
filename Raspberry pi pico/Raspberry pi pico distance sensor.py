@@ -8,7 +8,7 @@ import machine
 def t(sec):
     time.sleep(sec)
 
-temprature_sensor = machine.ADC(4)
+temperature_sensor = machine.ADC(4)
 cf = 3.3/(65535)
 trigger = Pin(3, Pin.OUT)
 echo = Pin(2, Pin.IN)
@@ -35,9 +35,9 @@ while True:
          distance_cm = (measure_time * 0.0343) / 2
          distance_cm = round(distance_cm, 2)
          
-         read = temprature_sensor.read_u16()*cf
-         temprature = 27 - (read - 0.700)/0.001721
-         print(f"Distance: {distance_cm}, Temprature: {temprature}")
+         read = temperature_sensor.read_u16()*cf
+         temperature = 27 - (read - 0.700)/0.001721
+         print(f"Distance: {distance_cm}, temperature: {temperature}")
          
          if distance_cm < 110:
              led(1)
